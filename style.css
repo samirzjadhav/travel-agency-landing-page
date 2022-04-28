@@ -83,7 +83,7 @@ body {
 .sub-heading {
   text-align: center;
   font-size: 18px;
-  margin: 20px 0px;
+  margin: 20px;
 }
 
 .book-a-trip-button {
@@ -115,4 +115,10 @@ body {
 .chevron-right {
   width: 24px;
   height: 24px;
+}
+
+@media only screen and (max-width: 600px) {
+  .nav-links {
+    display: none;
+  }
 }
