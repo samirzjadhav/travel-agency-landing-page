@@ -13,7 +13,7 @@ body {
 
 .main {
   height: 100vh;
-  background: url(assets/images/travels.jpg);
+  background: url(./assets/images/mountain-illustration.jpg);
   background-size: cover;
 }
 
