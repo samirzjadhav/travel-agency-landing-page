@@ -9,9 +9,6 @@
 body {
   color: white;
   font-family: "Poppins", sans-serif;
-}
-
-.main {
   min-height: 100vh;
   background: url(./assets/images/mountain-illustration.jpg);
   background-size: cover;
@@ -66,7 +63,7 @@ body {
 }
 
 .hero {
-  min-height: 60%;
+  min-height: 60vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
